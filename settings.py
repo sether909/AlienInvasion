@@ -20,5 +20,5 @@ class Settings():
         self.bullet_color = (60, 60, 60)
         self.bullets_allowed = 3 
         #ship speed 
-        self.ship_speed = 1.5
+        self.ship_speed = 7
         self.ship_limit = 3
